@@ -1,9 +1,9 @@
 
-dream-shops..
+# dream-shops..
+
 An e-commerce platform built with Java, Springboot.
 
-🦅 Key Features:
-<u.<u>
+# 🦅 Key Features:
 
 • User Management 
 • product Catalog
@@ -11,8 +11,7 @@ An e-commerce platform built with Java, Springboot.
 • Order Processing
 • Roles for management
 
-Running the Project:
-<u>.</u>
+# Running the Project:
 
 1. Clone the repository to your local machine
 2. Set up your database in the application.properties file
